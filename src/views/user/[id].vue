@@ -12,7 +12,7 @@
         Make sure you entered a valid Discord user ID and make sure the user is
         in
         <a
-          href="https://https://discord.gg/9BRfresUEM"
+          href="https://discord.com/invite/9BRfresUEM"
           title="Join Discord"
           class="underline"
           rel="noreferrer"
