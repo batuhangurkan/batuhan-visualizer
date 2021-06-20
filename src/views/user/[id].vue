@@ -12,12 +12,12 @@
         Make sure you entered a valid Discord user ID and make sure the user is
         in
         <a
-          href="https://lanyard.rest/discord"
+          href="https://https://discord.gg/9BRfresUEM"
           title="Join Discord"
           class="underline"
           rel="noreferrer"
           target="_blank"
-          >Lanyard's Discord server</a
+          >Batuhan's Discord server</a
         >. Reload the page after you join the Discord server or try with an user
         ID who is already in Discord.
       </p>
