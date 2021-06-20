@@ -3,7 +3,7 @@
     <div class="flex text-center md:text-left flex-col space-y-4">
       <div>
         <h1 class="text-2xl md:text-4xl font-bold text-shadow-md text-white">
-          Batuhan Visualiser
+          Batuhan Visualizer
         </h1>
 
         <p class="text-shadow-sm md:w-4/5">
@@ -13,7 +13,7 @@
             target="_blank"
             rel="noreferrer"
             class="underline"
-            >Batuhan Visualiser</a
+            >Batuhan Visualizer</a
           >
           visualizer example built with Vue, Vite, TypeScript and Windi CSS
         </p>
@@ -36,7 +36,7 @@
     </div>
 
     <Card
-      name="Batuhan Visualiser"
+      name="Batuhan Visualizer"
       details="by Batuhan1086"
       state="on GitHub, open-source"
       :timestamps="{ start: new Date().getTime() }"
