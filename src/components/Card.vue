@@ -109,7 +109,7 @@ const props = defineProps({
   largeImage: {
     type: String,
     required: false,
-    default: "https://i.imgur.com/j1HAfFJ.png",
+    default: "https://i.hizliresim.com/9w5g371.png",
   },
   smallImage: {
     type: String,
@@ -142,7 +142,7 @@ watch(() => [props.largeImage, props.smallImage], () => {
 // Computed methods
 const getImageUrl = computed(() => {
   const object = {
-    largeImage: "https://i.imgur.com/j1HAfFJ.png",
+    largeImage: "https://i.hizliresim.com/9w5g371.png",
     smallImage: null
   } as {
     largeImage: string,
